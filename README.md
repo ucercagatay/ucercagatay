@@ -47,7 +47,7 @@ Frontend    │ React · JavaScript · Inertia.js (basics)
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ucercagatay&show_icons=true&count_private=true&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=ucercagatay&hide_border=true" />
 </p>
 
 ---
