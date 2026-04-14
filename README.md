@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About me
 
-Backend developer with 3+ years of production experience building scalable APIs,
+Backend developer with 4+ years of production experience building scalable APIs,
 background job systems, and third-party integrations. I specialize in **.NET (C#)**
 and **PHP (Laravel)**, and I care deeply about clean architecture and maintainable code.
 
